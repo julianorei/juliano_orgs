@@ -1,11 +1,14 @@
+fx_version 'adamant'
+game 'gta5'
+
+repository 'https://github.com/julianorei/juliano_orgs'
+
 resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
 
-description 'Organizações Ilegais'
+autor "julianorei#9410"
+description 'Sistema de Organizações do Juliano'
 
-author 'JULIANO'
-description 'Organizações Ilegais - Do JULIANO'
-
-version '0.0.1'
+version '0.1.1'
 
 server_scripts {
   '@es_extended/locale.lua',
